@@ -9,6 +9,6 @@
 class apple
 {
     $name = lpt;
-
+    $date = '2020-2-20';
     var_dump($name);
 }
